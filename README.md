@@ -21,3 +21,5 @@
 site-packages 会与仓库内的 `aiui` 包冲突）。
 
 同步时保持三个仓库的 `aiui/common` 内容一致；后续可改为 CI 校验或 submodule。
+
+开发协作规范见 [AGENTS.md](AGENTS.md)，共享模块约束见 [CLAUDE.md](CLAUDE.md)。
