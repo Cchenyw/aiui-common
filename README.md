@@ -14,6 +14,10 @@
 - `llm.py`：Anthropic / OpenAI 兼容客户端
 - `paths.py`：运行目录路径
 
+## 文档
+
+- [系统架构与核心流程](docs/architecture/README.md)：控制面 / 执行面 / 远程执行 / AI 闭环
+
 ## 使用方式
 
 本仓库根目录就是 `aiui/common` 的内容。消费方应把本仓库复制/同步到自己的
